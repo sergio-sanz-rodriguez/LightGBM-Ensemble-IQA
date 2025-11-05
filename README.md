@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/model_pipeline5.tiff" alt="Project Banner" width="50%">
+  <img src="images/1758624645682.jpg" alt="Project Banner" width="100%">
 </p>
 
 # Ensembling Deep Features with LightGBM for Perceptual Quality Assessment of Filtered Images
